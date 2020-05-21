@@ -3,9 +3,11 @@
 ![Screen](http://www.m9c.net/uploads/15563553591.jpg)
 ### Installations
 ```
-git clone https://github.com/king-hacking/King-Hacking.git
-cd King-Hacking
-bash King-Tools.sh
+git clone https://github.com/musawerfatih/ALLTOOL
+cd ALLTOOL
+bash ALLTOOL.sh
+OR
+python2 ALLTOOL.sh
 ```
 ### My Accounts
 * [TELEGRAM](https://t.me/hackeer1)
